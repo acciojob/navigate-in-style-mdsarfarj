@@ -1,10 +1,11 @@
 
-    /* Apply styles to the navigation bar */
-
+* Apply styles to the navigation bar */
+ul{
+	display:flex;
+}
 
 
     .container {
-		display:flex;
       background-color: #D3D3D3;
       padding: 10px;
     }
