@@ -4,7 +4,8 @@
 
 
     .container {
-      background-color: #D3D3D3;
+		padding:10px;
+      background:#D3D3D3;
       padding: 10px;
     }
 
@@ -14,7 +15,6 @@
       padding: 0;
 		display:flex;
     }
-
     .container li {
       display: inline;
       margin-right: 1rem;
