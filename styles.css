@@ -1,6 +1,6 @@
 
 * Apply styles to the navigation bar */
-ul{
+ul li{
 	display:flex;
 }
 
