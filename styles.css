@@ -1,8 +1,6 @@
 
 * Apply styles to the navigation bar */
-ul li{
-	display:flex;
-}
+
 
 
     .container {
@@ -14,6 +12,7 @@ ul li{
     .container ul {
       list-style: none;
       padding: 0;
+		display:flex;
     }
 
     .container li {
